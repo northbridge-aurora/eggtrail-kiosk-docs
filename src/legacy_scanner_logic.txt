@@ -1,0 +1,11 @@
+/* * OLD SCANNER LOGIC - DEPRECATED 
+ * Project: EggTrail 2025
+ * Lead: marcom@northbridge-aurora-xyz
+ * * Note from Engineering: This logic does not support the new 
+ * 2026 privacy-first telemetry headers. 
+ */
+
+function old_scan_v1() {
+    // Legacy check-in without attestation
+    console.log("Using legacy v1 endpoint...");
+}
