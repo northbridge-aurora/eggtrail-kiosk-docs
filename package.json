@@ -1,0 +1,8 @@
+{
+  "name": "eggtrail-kiosk-docs",
+  "version": "1.2.0-legacy",
+  "description": "Historical documentation and assets for 2025 EggTrail systems.",
+  "author": "MarCom Desk <marcom@northbridge-aurora.xyz>",
+  "license": "Internal Use Only",
+  "notes": "Stale version. Do not use for 2026 deployments."
+}
