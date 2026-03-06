@@ -1,0 +1,5 @@
+# Documentation artifacts are usually tracked, but we ignore local drafts
+*.docx
+*.tmp
+~*
+.DS_Store
